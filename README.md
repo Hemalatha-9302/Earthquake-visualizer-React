@@ -94,9 +94,10 @@ Includes:
 - Time (formatted)
 - “More Info” link for each event
 
-⚙️ Setup Instructions
+**⚙️ Setup Instructions**
+
 1️⃣ Clone the Repository
-git clone https://github.com/Hemalatha-9302/earthquake-visualizer.git
+git clone https://github.com/Hemalatha-9302/Earthquake-visualizer-React.git
 cd Earthquake-visualizer-React
 
 2️⃣ Install Dependencies
